@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("ChatGPT PDF Exporter popup loaded.")})();
